@@ -2,6 +2,7 @@
   "Post": {
     "_": { "items": 20 },
     "title": { "string": {} },
+    "Owner": { "string": {} },
     "comments": { "hasMany": "Comment" }
   },
   "Comment": {
